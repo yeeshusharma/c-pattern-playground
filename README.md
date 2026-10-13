@@ -1,8 +1,6 @@
-# c-pattern-playground
-A collection of star, number, alphabet, and other pattern programs written in C while learning nested loops.
 # C Pattern Playground
 
-A collection of C programs created while learning and practicing C programming.
+A collection of star, number, alphabet, and other pattern programs written in C while learning nested loops.
 
 ## About
 
