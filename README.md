@@ -52,4 +52,4 @@ The goal of this repository is to strengthen my C programming fundamentals throu
 
 ## Author
 
-Yeeshu
+Yeeshu Sharma
